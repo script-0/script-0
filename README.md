@@ -6,6 +6,7 @@
      />
 </p>
 
+<!--
 ### WakaTime Stats (Coding activity)
 <p>
     <a href="https://wakatime.com/@script0" target="_blank">
@@ -13,3 +14,4 @@
              alt="script-0's WakaTime Activity."/>
     </a>
 </p>
+-->
