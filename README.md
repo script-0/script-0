@@ -1,7 +1,7 @@
 ### Global Stats (OpenSource activity)
 <p>
-    <img width="600"  
-         src="https://metrics.lecoq.io/script-0?id=script-0" 
+    <img width="600"
+         src="https://metrics.lecoq.io/script-0?id=script-0&template=classic" 
          alt="script-0's Github Metrics"
      />
 </p>
