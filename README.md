@@ -1,5 +1,5 @@
 ### Hi ! :smiley: 👋
-I'm **Isaac NDEMA**. I'm recently fallen in love of open source :white_heart: , interested in cybersecurity, a little bit of Artificial Intelligence and everything that is challenging ( keep things simple ). Also, I'm a :mortar_board: BS student in Computer Engineering at [Polytech Yaounde](https://polytechnique.cm)
+I'm **Isaac NDEMA**. Interested in cybersecurity, a little bit of Artificial Intelligence and everything that is challenging ( keep things simple ). Also, I'm a :mortar_board: BS student in Computer Engineering at [Polytech Yaounde](https://polytechnique.cm)
  - I am currently looking for my way in this vast world of computer science: :thought_balloon: *What if we were interested in quantum cryptography :grey_question:*
  - :notes: In my ears, a bit of Drill Trap. Cameroonian web series embellish some days darkened by bugs.
  - :speech_balloon: Reachable via [ Telegram ](https://t.me/IsaacNdema)
