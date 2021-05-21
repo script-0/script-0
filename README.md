@@ -3,12 +3,7 @@ I'm **Isaac NDEMA**. Interested in teaching a machine to do things it was not pr
  - I am looking for my way in this vast world of computer science: :thought_balloon: *What if we were interested in quantum cryptography :grey_question:*
  - :notes: In my ears, a bit of Drill Instrumental. Cameroonian web series embellish some days darkened by bugs.
  - :speech_balloon: Reachable via [ Telegram ](https://t.me/IsaacNdema)
- - *Simplicity is the garment of perfection.* , Wladimir Wolf-Gozin
-
-Une touche Francophone, 
-
-:memo: “La simplicité décourage. Elle ne s'acquiert qu'à force de détachement.” , De Dominique Blondeau -- Les errantes
-
+ - :memo: *Simplicity is the garment of perfection.* , Wladimir Wolf-Gozin
 ---
 ### Global Stats ( OpenSource activity )
 <p>
