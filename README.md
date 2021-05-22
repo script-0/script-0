@@ -8,7 +8,7 @@ I'm **Isaac NDEMA**. Interested in teaching a machine to do things it was not pr
 ### Global Stats ( OpenSource activity )
 <p>
     <img width="600"
-         src="https://metrics.lecoq.io/script-0?id=script-0&template=classic" 
+         src="https://github.com/script-0/script-0/blob/main/github-metrics.svg" 
          alt="script-0's Github Metrics"
      />
 </p>
