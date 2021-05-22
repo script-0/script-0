@@ -5,7 +5,7 @@ I'm **Isaac NDEMA**. Interested in teaching a machine to do things it was not pr
  - :speech_balloon: Reachable via [ Telegram ](https://t.me/IsaacNdema)
  - :memo: *Simplicity is the garment of perfection.* , Wladimir Wolf-Gozin
 ---
-### Global Stats ( OpenSource activity )
+### Global Stats
 <p>
     <img width="600"
          src="https://github.com/script-0/script-0/blob/main/github-metrics.svg" 
