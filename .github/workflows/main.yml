@@ -1,22 +1,22 @@
-name: Metrics
-on:
+#name: Metrics
+#on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 4,22 * * *"}]
+#  schedule: [{cron: "0 4,22 * * *"}]
   # Lines below let you run workflow manually and on each commit
-  workflow_dispatch:
-  push: {branches: ["main"]}
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugin_languages: yes
-          # Options
-          user: script-0
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Africa/Douala
-          committer_message: Update Global Stats
+#  workflow_dispatch:
+#  push: {branches: ["main"]}
+#jobs:
+# github-metrics:
+#    runs-on: ubuntu-latest
+#    steps:
+#      - u#ses: lowlighter/metrics@latest
+#        wi#th:
+#          ## Your GitHub token
+#          to#ken: ${{ secrets.METRICS_TOKEN }}
+#          plu#gin_languages: yes
+#          # Op#tions
+#          user: script-0
+#          template: classic
+#          base: header, activity, community, repositories, metadata
+#          config_timezone: Africa/Douala
+#          committer_message: Update Global Stats
