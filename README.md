@@ -18,6 +18,25 @@ I'm **Isaac NDEMA**. Interested in teaching a machine to do things it was not pr
 
 <h3 align="left">🛠&nbsp;Languages and Tools:</h3>
 <p align="left">
+ 
+  <a href="https://colab.research.google.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/googlecolab/open_in_colab/main/images/icon128.png"
+      alt="Colab"
+      width="40"
+      height="40"
+    />
+  </a>
+ 
+  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
+      alt="flask"
+      width="40"
+      height="40"
+    />
+  </a>
+ 
    <a href="https://reactjs.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
@@ -26,7 +45,7 @@ I'm **Isaac NDEMA**. Interested in teaching a machine to do things it was not pr
       height="40"
     />
   </a>
-
+ 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -35,42 +54,37 @@ I'm **Isaac NDEMA**. Interested in teaching a machine to do things it was not pr
       height="40"
     />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank">
+ 
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-      alt="html5"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
+ 
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-      alt="css3"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
+      alt="spring"
       width="40"
       height="40"
     />
   </a>
-    <a href="https://redux.js.org" target="_blank">
+    <a href="" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+      alt="bash"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://sass-lang.com" target="_blank">
+  
+  <a href="https://id.heroku.com/login" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://styled-components.com/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/styled-components.svg"
-      alt="Styled-components"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg"
+      alt="Heroku"
       width="40"
       height="40"
     />
@@ -118,15 +132,6 @@ I'm **Isaac NDEMA**. Interested in teaching a machine to do things it was not pr
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
       alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
- 
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
-      alt="aws"
       width="40"
       height="40"
     />
