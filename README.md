@@ -140,7 +140,8 @@ I'm **Isaac NDEMA**. Interested in teaching a machine to do things it was not pr
   </a>
 </p>
 
-
+<span>
 [![My github stats](https://github-readme-stats.vercel.app/api?username=script-0&count_private=true&show_icons=true&theme=dark)](https://github.com/script-0/github-readme-stats)
 
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=script-0&layout=compact&hide=html,css&theme=dark)](https://github.com/script-0/github-readme-stats)
+</span>
