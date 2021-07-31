@@ -122,14 +122,7 @@ I'm **Isaac NDEMA**. Interested in teaching a machine to do things it was not pr
       height="40"
     />
   </a>
-  <a href="https://www.console.firebase.google.com" target="_blank">
-    <img
-      src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
+ 
   <a href="https://aws.amazon.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
@@ -140,8 +133,6 @@ I'm **Isaac NDEMA**. Interested in teaching a machine to do things it was not pr
   </a>
 </p>
 
-<span>
 [![My github stats](https://github-readme-stats.vercel.app/api?username=script-0&count_private=true&show_icons=true&theme=dark)](https://github.com/script-0/github-readme-stats)
 
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=script-0&layout=compact&hide=html,css&theme=dark)](https://github.com/script-0/github-readme-stats)
-</span>
