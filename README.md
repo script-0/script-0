@@ -19,6 +19,15 @@ I'm **Isaac NDEMA**. Interested in teaching a machine to do things it was not pr
 <h3 align="left">🛠&nbsp;Languages and Tools:</h3>
 <p align="left">
  
+  <a href="https://www.python.org/" target="_blank">
+    <img
+      src="images/python.svg"
+      alt="Python"
+      width="40"
+      height="40"
+    />
+  </a>
+ 
   <a href="https://colab.research.google.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/googlecolab/open_in_colab/main/images/icon128.png"
