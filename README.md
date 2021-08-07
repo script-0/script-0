@@ -158,7 +158,7 @@ I'm **Isaac NDEMA**. Interested in teaching a machine to do things it was not pr
     <img
       src="images/junit.png"
       alt="Junit"
-      height="60"
+      height="45"
     />
   </a>
 </p>
