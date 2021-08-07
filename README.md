@@ -126,12 +126,20 @@ I'm **Isaac NDEMA**. Interested in teaching a machine to do things it was not pr
       height="40"
     />
   </a>
-  
-  
+
   <a href="https://www.docker.com/" target="_blank">
     <img
       src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ"
       alt="Docker"
+      width="40"
+      height="40"
+    />
+  </a>
+ 
+ <a href="https://azure.microsoft.com/" target="_blank">
+    <img
+      src="https://swimburger.net/media/fbqnp2ie/azure.svg"
+      alt="Microsoft Azure"
       width="40"
       height="40"
     />
@@ -143,6 +151,14 @@ I'm **Isaac NDEMA**. Interested in teaching a machine to do things it was not pr
       alt="mongodb"
       width="40"
       height="40"
+    />
+  </a>
+ 
+ <a href="https://github.com/junit-team" target="_blank">
+    <img
+      src="images/junit.png"
+      alt="Junit"
+      height="60"
     />
   </a>
 </p>
