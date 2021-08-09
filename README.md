@@ -161,6 +161,14 @@ I'm **Isaac NDEMA**. Interested in teaching a machine to do things it was not pr
       height="45"
     />
   </a>
+
+  <a href="https://site.mockito.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png"
+      alt="Mockito"
+      height="45"
+    />
+  </a>
 </p>
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=script-0&count_private=true&show_icons=true&theme=dark)](https://github.com/script-0/github-readme-stats)
