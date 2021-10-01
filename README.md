@@ -4,7 +4,7 @@
       <img alt="Custom badge" src="https://visitor-badge.glitch.me/badge?page_id=script-0.script-0">
  </p>
 -->
-I'm **Isaac NDEMA**. Interested in teaching a machine to do things it was not programmed to do; a little bit of cybersecurity and everything that is challenging : keep things simple. Also, I'm a :mortar_board: Master student in Computer Engineering at [Polytech Yaounde](https://polytechnique.cm)
+I'm **Isaac NDEMA**. Interested in everything that is challenging : keep things simple. Also, I'm a :mortar_board: Master student in Computer Engineering at [Polytech Yaounde](https://polytechnique.cm)
 <!--
  - I am looking for my way in this vast world of computer science: :thought_balloon: *What if we were interested in quantum cryptography :grey_question:*
  - :notes: In my ears, a bit of Drill Instrumental. Cameroonian web series embellish some days darkened by bugs.
