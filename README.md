@@ -5,14 +5,23 @@
  </p>![Uploading script0-logo.png…]()
 
 -->
-![Logo](brand/logo.png)
-I'm **Isaac NDEMA**. Interested in everything that is challenging : keep things simple. Also, I'm a :mortar_board: Master student in Computer Engineering at [Polytech Yaounde](https://polytechnique.cm)
+<p>
+  <img src="brand/logo.png" width="80px" align="left"/>
+  <p>
+      <br/>
+      I'm <strong>Isaac NDEMA</strong>. Interested in everything that is challenging : keep things simple. Also, I'm a :mortar_board: Master student in Computer Engineering at <a href="https://polytechnique.cm">Polytech Yaounde</a>
+      <br/>
+      <br/>
+  </p>
+</p>
 <!--
  - I am looking for my way in this vast world of computer science: :thought_balloon: *What if we were interested in quantum cryptography :grey_question:*
  - :notes: In my ears, a bit of Drill Instrumental. Cameroonian web series embellish some days darkened by bugs.
  - :speech_balloon: Reachable via [ Telegram ](https://t.me/IsaacNdema)
  - :memo: *Simplicity is the garment of perfection.* , Wladimir Wolf-Gozin
 -->
+
+<br>
 <hr>
 <!--
 <p>
