@@ -1,4 +1,3 @@
-### Hi ! :smiley: 👋
 <!--
  <p align="right">
       <img alt="Custom badge" src="https://visitor-badge.glitch.me/badge?page_id=script-0.script-0">
@@ -9,6 +8,7 @@
   <img src="brand/logo.png" width="80px" align="left"/>
   <p>
       <br/>
+      ### Hi ! :smiley: 👋
       I'm <strong>Isaac NDEMA</strong>. Interested in everything that is challenging : keep things simple. Also, I'm a :mortar_board: Master student in Computer Engineering at <a href="https://polytechnique.cm">Polytech Yaounde</a>
       <br/>
       <br/>
