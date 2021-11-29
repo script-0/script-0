@@ -8,12 +8,12 @@
 <p>
   <img src="brand/logo.png" width="80px" align="left"/>
   <p>
-      <br/>
-      <strong> Hi ! :smiley: 👋</strong>
-      <br/>
-      I'm <strong>Isaac NDEMA</strong>. Interested in everything that is challenging : keep things simple. Also, I'm a :mortar_board: Master student in Computer Engineering at <a href="https://polytechnique.cm">Polytech Yaounde</a>
-      <br/>
-      <br/>
+    <ul>
+     <li>:wave: Hi, I’m **Isaac NDEMA**</li>
+     <li>:eyes: I’m currently learning everything that can be interesting
+     <li>:seedling:  I'm a :mortar_board: Master student in Computer Engineering at <a href="https://polytechnique.cm">Polytech Yaounde</a></li>
+     <li>:mailbox: How to reach me : https://t.me/script_0 </li>
+    </ul>
   </p>
 </p>
 <!--
