@@ -10,7 +10,7 @@
   <p>
     <ul>
      <li>:wave: Hi, I’m <strong>Isaac NDEMA</strong></li>
-     <li>:eyes: I’m currently learning everything that can be interesting
+     <li>:eyes: A curious guy who is learning about Machine Learning and Cybersec and hopes to bring these two fields together in a practical solution to a real problem. Keep learning!
      <li>:seedling:  I'm a :mortar_board: Master student in Computer Engineering at <a href="https://polytechnique.cm">Polytech Yaounde</a></li>
      <li>:mailbox: How to reach me : https://t.me/script_0 </li>
     </ul>
