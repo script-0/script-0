@@ -37,6 +37,28 @@
 <h3 align="left">🛠&nbsp;Languages and Tools:</h3>
 <p align="left">
  
+ 
+ 
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+    <img
+      src="images/Microsoft_.NET.svg"
+      alt=".Net"
+      width="40"
+      height="40"
+    />
+  </a>
+ 
+ 
+ 
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img
+      src="images/Csharp.png"
+      alt="C#"
+      width="50"
+      height="50"
+    />
+  </a>
+ 
   <a href="https://www.python.org/" target="_blank">
     <img
       src="images/python.svg"
